@@ -22,3 +22,16 @@ a {
     background-color: #222;
     padding: 10px;
 }
+#navbar ul {
+    display: flex;
+    justify-content: flex-end;
+    list-style-type: none;
+}
+
+#navbar li {
+    margin-left: 20px;
+}
+
+#navbar a {
+    color: #fff;
+}

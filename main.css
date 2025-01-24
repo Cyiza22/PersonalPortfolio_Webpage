@@ -8,10 +8,10 @@ body {
     color: #fff;
     width: 100%;
 }
-/* a {
+a {
     color: #dd3333;
     text-decoration: none;
-} */
+}
 
 
 #navbar {
@@ -75,7 +75,7 @@ body {
     grid-gap: 30px;
     margin-bottom: 70px;
 }
-#project-grid a{
+#project-grid h3 a{
     text-decoration: none;
 }
 #project-grid h3{

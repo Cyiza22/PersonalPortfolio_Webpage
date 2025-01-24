@@ -75,6 +75,9 @@ a {
     grid-gap: 30px;
     margin-bottom: 70px;
 }
+#project-grid a{
+    font-size: 20px;
+}
 #project-grid h3{
     font-size: 20px;
 }

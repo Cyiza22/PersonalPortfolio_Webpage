@@ -145,8 +145,7 @@ footer p{
 
 }
 .copyrights{
-    display: flex;
-    justify-content: space-around;
+    text-align: center;
     font-size: 18px;
     border-top: 4px solid#dd3333;
     padding: 20px;
